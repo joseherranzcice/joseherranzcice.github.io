@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SunnyLandGetafe",
+"productVersion": "0.1",
+"dataUrl": "Plataformas2DWeb.data.unityweb",
+"wasmCodeUrl": "Plataformas2DWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "Plataformas2DWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
